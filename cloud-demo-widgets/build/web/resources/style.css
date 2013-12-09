@@ -1,0 +1,66 @@
+body
+{
+    font-size: 80%;
+}
+
+h3
+{
+    margin: 0;
+    padding: .4em;
+}
+
+.container
+{
+    width: 960px;
+    margin: 0 auto;
+}
+
+.split-left
+{
+    width: 478px;
+    margin: 0 2px 0 0;
+    padding: 0;
+    float: left;
+    height: 100%;
+}
+
+.split-right
+{
+    width: 478px;
+    margin: 0 0 0 2px;
+    padding: 0;
+    float: left;
+}
+
+.section-vert
+{
+    clear: left;
+    margin-top: 4px;
+}
+
+.wijdata-type-number
+{
+    font-family: Georgia;
+}
+
+#tagPie
+{
+    height: 400px;
+    padding: 0;
+    margin: 0;
+}
+
+#siteBar
+{
+    height: 400px;
+    padding: 0;
+    margin: 0;
+}
+
+#tagLines
+{
+    height: 280px;
+    clear: left;
+    padding: 0;
+    margin: 0;
+}
